@@ -2,4 +2,4 @@
 applications:
 - name:    verbs
   host:    verbs
-  memory:  128M
+  memory:  64M
