@@ -2,5 +2,4 @@ These is a hello-world kind project. It consists of asking for english verbs in 
 
 It is based on node, express and angular.
 
-Marc Riart
-March 2017
+Marc Riart / March 2017
