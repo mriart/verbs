@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">      
+      <style>
+         div {
+             //border: 1px solid #c3c3c3;
+             align-content: center;
+             text-align: center;
+             padding: 0px;
+         }
+         section {
+             border: 1px solid #FFFFFF;   //#c3c3c3 for debugging
+             height: 80px;
+             padding: 0px;
+         }
+         p {
+             font-family: sans-serif;
+             font-size: 24px;
+             text-align: center;
+         }
+         hr {
+            color: #E6E6E6;   //Light grey
+            border-width: 1px>
+         }
+         button {
+             background-color: #003390;   //Blue
+             border: none;
+             color: white;
+             padding: 15px 32px;
+             text-align: center;
+             text-decoration: none;
+             display: inline-block;
+             font-size: 16px;
+             margin: 4px 2px;
+             cursor: pointer;
+             border-radius: 4px;
+             width: 250px;
+         }
+         input {
+             font-size: 16px;
+             width: 250px;
+         }
+      </style>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+      <script>
+         function left(s) {
+            return s.slice(0, s.indexOf(':'));
+         }
+
+         function right(s) {
+            return s.slice(s.indexOf(':') + 1);
+         }
+
+         var app = angular.module('myApp', []);
+         app.controller('myCtrl', function($scope, $http) {
+             $scope.isVisible = false;
+             $scope.showHide = function() {
+                 if ($scope.isVisible == false) $scope.isVisible = true;
+                 else $scope.isVisible = false;
+             }
+             $scope.showAnother1 = function() {                 
+                 $http.get('qa' + '?question=' + $scope.myIndex + '&status=1').then(function(response) {
+                     $scope.myQuestion = left(response.data.toString());
+                     $scope.myAnswer = left(right(response.data.toString()));
+                     $scope.myIndex = right(right(response.data.toString()));
+                     $scope.isVisible = false;
+                 })
+             }
+             $scope.showAnother2 = function() {                 
+                 $http.get('qa' + '?question=' + $scope.myIndex + '&status=2').then(function(response) {
+                     $scope.myQuestion = left(response.data.toString());
+                     $scope.myAnswer = left(right(response.data.toString()));
+                     $scope.myIndex = right(right(response.data.toString()));
+                     $scope.isVisible = false;
+                 })
+             }
+             $scope.showAnother3 = function() {                 
+                 $http.get('qa' + '?question=' + $scope.myIndex + '&status=3').then(function(response) {
+                     $scope.myQuestion = left(response.data.toString());
+                     $scope.myAnswer = left(right(response.data.toString()));
+                     $scope.myIndex = right(right(response.data.toString()));
+                     $scope.isVisible = false;
+                 })
+             }
+             $http.get("qa").then(function(response) {
+                 $scope.myQuestion = left(response.data.toString());
+                 $scope.myAnswer = left(right(response.data.toString()));
+                 $scope.myIndex = right(right(response.data.toString()));
+             })
+         });
+      </script>
+   <body>
+      <p>Questions & Answers for <i>Verbs</i></p>
+      <hr>
+      <div ng-app="myApp" ng-controller="myCtrl"> 
+         <p hidden>{{myIndex}}</p>
+         <section style="height: 160px;">
+            <p>{{myQuestion}}</p>
+            
+            <p ng-show="isVisible">{{myAnswer}}</p>
+         </section>
+         <section>
+            <button id="butShow" style="background-color:#4CAF50" ng-click="showHide()">Show / Hide</button>
+         </section>
+         <button id="butAnother" ng-click="showAnother1()">1. Buff, no idea</button><br>
+         <button id="butAnother" ng-click="showAnother2()">2. Umm, almost</button><br>
+         <button id="butAnother" ng-click="showAnother3()">3. Got it!</button>
+      </div>
+   </body>
+</html>

@@ -1,16 +1,13 @@
 {
-	"name": "NodejsStarterApp",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "node app.js"
-	},
-	"dependencies": {
-		"express": "4.13.x",
-		"cfenv": "1.0.x"
-	},
-	"repository": {},
-	"engines": {
-		"node": "4.x"
-	} 
+  "name": "verbs",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http-post": "^0.1.1",
+    "http-proxy": "^1.8.1"
+  },
+  "main": "verbs.js",
+  "scripts": {
+    "start": "node verbs.js"
+  }
 }

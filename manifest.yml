@@ -1,11 +1,5 @@
+---
 applications:
-- path: .
-  memory: 128M
-  instances: 1
-  domain: mybluemix.net
-  name: verbs
-  host: verbs
-  disk_quota: 1024M
-  services:
-  - availability-monitoring-auto
-  buildpack: nodejs_buildpack
+- name:    verbs
+  host:    verbs
+  memory:  128M
