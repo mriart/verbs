@@ -37,7 +37,7 @@ abandonar	:	forsake, 	forsook, 	forsaken  <br> /forseik, forsuk, forseikn/
 congelar	:	freeze, 	froze, 	frozen <br> /friisz, frousz, frouszn/ 
 tener, obtener	:	get, 	got, 	got <br> /get, got, gotten / 
 dar	:	give, 	gave, 	given <br> /giv, geiv, givn/ 
-ir	:	go, 	went , 	gone <br> /gou, wuent, gon/ 
+ir	:	go, 	went , 	gone <br> /gou, wuent, gon/
 moler	:	grind, 	ground, 	ground <br> /graind, graund, graund/ 
 crecer	:	grow, 	grew, 	grown <br> /grou, gru, groun/ 
 colgar	:	hang, 	hung, 	hung <br> /hang, haang, haang/ 
