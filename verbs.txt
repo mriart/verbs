@@ -1,117 +1,117 @@
-surgir	:	arise, 	arose, 	arisen  /a'rais, a'rous, a'risn/ 
-ser	:	be, 	was,   /bi, wuas, were/ 
-golpear	:	beat, 	beat, 	beaten  /bit, bit, bitn/ 
-convertirse, llegar a ser	:	become, 	became, 	become  /bi'kam, bi'keim, bi'kam/ 
-comenzar	:	begin, 	began, 	begun  /bi'gin, bi'gan, bi'gan/ 
-apostar	:	bet, 	bet, 	bet  /bet, bet, bet/ 
-morder	:	bite, 	bit, 	bitten  /bait, bit, bitn/ 
-sangrar	:	bleed, 	bled, 	bled  /blid, bled, bled/ 
-soplar	:	blow, 	blew, 	blown  /blou, blu, bloun/ 
-romper	:	break, 	broke, 	broken  /breik, brouk, broukn/ 
-traer	:	bring, 	brought, 	brought  /bring, brot, brot/ 
-construir	:	build, 	built, 	built  /bild, bilt, bilt/ 
-comprar	:	buy, 	bought, 	bought  /bai, bot, bot/ 
-atrapar	:	catch, 	caught, 	caught  /katch, kot, kot/ 
-elegir	:	choose, 	chose, 	chosen  /chus, chous, chousn/ 
-venir	:	come, 	came, 	come  /kam, keim, kam/ 
-costar	:	cost, 	cost, 	cost  /kost, kost, kost/ 
-arrastrarse	:	creep, 	crept, 	crept  /krip, krept, krept/ 
-cortar	:	cut, 	cut, 	cut  /kat, kat, kat/ 
-tratar	:	deal, 	dealt, 	dealt  /dil, delt, delt/ 
-hacer	:	do, 	did, 	done  /du, did, don/ 
-dibujar	:	draw, 	drew, 	drawn  /dro, dru, dron/ 
-soñar	:	dream, 	dreamt, 	dreamt  /driim, dremt, dremt/ 
-beber	:	drink, 	drank, 	drunk  /drink, drank, draank/ 
-conducir	:	drive, 	drove, 	driven  /draiv, drouv, drivn/ 
-comer	:	eat, 	ate, 	eaten  /iit, eit, iitn/ 
-caer	:	fall, 	fell, 	fallen  /fol, fel, folen/ 
-alimentar	:	feed, 	fed, 	fed  /fiid, fed, fed/ 
-sentir	:	feel, 	felt, 	felt  /fiil, felt, felt/ 
-pelear	:	fight, 	fought, 	fought  /fait, fot, fot/ 
-encontrar	:	find, 	found, 	found  /faind, faund, faund/ 
-huir	:	flee, 	fled, 	fled  /flii, fled, fled/ 
-volar	:	fly, 	flew, 	flown  /flai, flu, floun/ 
-olvidar	:	forget, 	forgot, 	forgotten  /forget, forgot, forgotn/ 
-perdonar	:	forgive, 	forgave, 	forgiven  /forgiv, forgeiv, forgivn/ 
-abandonar	:	forsake, 	forsook, 	forsaken   /forseik, forsuk, forseikn/ 
-congelar	:	freeze, 	froze, 	frozen  /friisz, frousz, frouszn/ 
-tener, obtener	:	get, 	got, 	got  /get, got, gotten / 
-dar	:	give, 	gave, 	given  /giv, geiv, givn/ 
-ir	:	go, 	went , 	gone  /gou, wuent, gon/ 
-moler	:	grind, 	ground, 	ground  /graind, graund, graund/ 
-crecer	:	grow, 	grew, 	grown  /grou, gru, groun/ 
-colgar	:	hang, 	hung, 	hung  /hang, haang, haang/ 
-tener	:	have, 	had, 	had  /hav, had, had/ 
-oír	:	hear, 	heard, 	heard  /hir, herd, herd/ 
-esconderse	:	hide, 	hid, 	hidden  /haid, hid, hidn/ 
-golpear	:	hit, 	hit, 	hit  /hit, hit, hit/ 
-tener, mantener	:	hold, 	held, 	held  /hold, held, held/ 
-herir, doler	:	hurt, 	hurt, 	hurt  /hert, hert, hert/ 
-guardar	:	keep, 	kept, 	kept  /kip, kept, kept/ 
-arrodillarse	:	kneel, 	knelt, 	knelt  /nil, nelt, nelt/ 
-saber	:	know, 	knew, 	known  /nou, niu, noun/ 
-encabezar	:	lead, 	led, 	led  /liid, led, led/ 
-aprender	:	learn, 	learnt, 	learnt  /lern, lernt, lernt/ 
-dejar	:	leave, 	left, 	left  /liv, left, left/ 
-prestar	:	lend, 	lent, 	lent  /lend, lent, lent/ 
-dejar	:	let, 	let, 	let  /let, let, let/ 
-yacer	:	lie, 	lay, 	lain  /lai, lei, lein/ 
-perder	:	lose, 	lost, 	lost  /lus, lost, lost/ 
-hacer	:	make, 	made, 	made  /meik, meid, meid/ 
-significar	:	mean, 	meant, 	meant  /min, ment, ment/ 
-conocer, encontrar	:	meet, 	met, 	met  /mit, met, met/ 
-pagar	:	pay, 	paid, 	paid  /pei, peid, peid/ 
-poner	:	put, 	put, 	put  /put, put, put/ 
-abandonar	:	quit, 	quit, 	quit  /kuit, kuit, kuit/ 
-leer	:	read, 	read, 	read  /rid, red, red/ 
-montar, ir	:	ride, 	rode, 	ridden  /raid, roud, ridn/ 
-llamar por teléfono	:	ring, 	rang, 	rung  /ring, rang, rang/ 
-elevar	:	rise, 	rose, 	risen  /rais, rous, risn/ 
-correr	:	run, 	ran, 	run  /raan, ran, raan/ 
-decir	:	say, 	said, 	said  /sei, sed, sed/ 
-ver	:	see, 	saw, 	seen  /si, so, sin/ 
-vender	:	sell, 	sold, 	sold  /sel, sold, sold/ 
-enviar	:	send, 	sent, 	sent  /send, sent, sent/ 
-fijar	:	set, 	set, 	set  /set, set, set/ 
-coser	:	sew, 	sewed, 	sewn   /sou, soud, soun/ 
-sacudir	:	shake, 	shook, 	shaken  /sheik, shuk, sheikn/ 
-brillar	:	shine, 	shone, 	shone  /shain, shoun, shoun/ 
-disparar	:	shoot, 	shot, 	shot  /shut, shot, shot/ 
-mostrar	:	show, 	showed, 	shown  /shou, shoud, shoun/ 
-encoger	:	shrink, 	shrank, 	shrunk  /shrink, shrank, shraank/ 
-cerrar	:	shut, 	shut, 	shut  /shaat, shaat, shaat/ 
-cantar	:	sing, 	sang, 	sung  /sing, sang, saang/ 
-hundir	:	sink, 	sank, 	sunk  /sink, sank, saank/ 
-sentarse	:	sit, 	sat, 	sat  /sit, sat, sat/ 
-dormir	:	sleep, 	slept, 	slept  /sliip, slept, slept/ 
-deslizar	:	slide, 	slid, 	slid  /sslaid, sslid, sslid/ 
-sembrar	:	sow, 	sowed, 	sown  /sou, soud, soun/ 
-hablar	:	speak, 	spoke, 	spoken  /sspik, sspouk, sspokn/ 
-deletrear	:	spel, l	spelt, 	spelt  /sspel, sspelt, sspelt/ 
-gastar	:	spend, 	spent, 	spent  /sspend, sspent, sspent/ 
-derramar	:	spill, 	spilt, 	spilt  /sspil, sspilt, ssplt/ 
-dividir	:	split, 	split, 	split  /sspli, sspli, sspli/ 
-estropear	:	spoil, 	spoilt, 	spoilt  /sspoil, sspoilt, sspoilt/ 
-extenderse	:	spread, 	spread, 	spread  /sspred, sspred, sspred/ 
-estar de pie	:	stand, 	stood, 	stood  /sstand, sstud, sstud/ 
-robar	:	steal, 	stole, 	stolen  /sstil, sstoul, stouln/ 
-picar	:	sting, 	stung, 	stung  /ssting, sstaang, sstaang/ 
-apestar	:	stink, 	stank , 	stunk  /sstink, sstank, sstaank/ 
-golpear	:	strike, 	struck , 	struck  /straik, straak, straak/ 
-jurar	:	swear, 	swore, 	sworn  /suer, suor, suorn/ 
-barrer	:	sweep, 	swept, 	swept  /suip, suept, suept/ 
-nadar	:	swim, 	swam, 	swum  /suim, suam, suaan/ 
-tomar	:	take, 	took, 	taken  /teik, tuk, teikn/ 
-enseñar	:	teach, 	taught, 	taught  /tiich, tot, tot/ 
-romper	:	tear, 	tore, 	torn  /tiir, tor, torn/ 
-decir	:	tell, 	told, 	told  /tel, told, told/ 
-pensar	:	think, 	thought, 	thought  /zink, zot, zot/ 
-lanzar	:	throw, 	threw, 	thrown  /zrou, zriu, zroun/ 
-pisar	:	tread, 	trode, 	trodden  /tred, troud, trodn/ 
-despertarse	:	wake, 	woke, 	woken  /güeik, wuok, wuokn/ 
-llevar puesto	:	wear, 	wore, 	worn  /güer, wuor, wuorn/ 
-tejer	:	weave, 	wove, 	woven  /güiv, wuov, wouvn/ 
-llorar	:	weep, 	wept, 	wept  /wuip, wuept, wuept/ 
-ganar	:	win, 	won, 	won  /wuin, wuon, wuon/ 
-retorcer	:	wring, 	wrung, 	wrung  /ring, raang, raang/ 
-escribir	:	write, 	wrote, 	written  /rait, rout, ritn/ 
+surgir	:	arise, 	arose, 	arisen ++ /a'rais, a'rous, a'risn/ 
+ser	:	be, 	was,  ++ /bi, wuas, were/ 
+golpear	:	beat, 	beat, 	beaten ++ /bit, bit, bitn/ 
+convertirse, llegar a ser	:	become, 	became, 	become + /bi'kam, bi'keim, bi'kam/ 
+comenzar	:	begin, 	began, 	begun + /bi'gin, bi'gan, bi'gan/ 
+apostar	:	bet, 	bet, 	bet + /bet, bet, bet/ 
+morder	:	bite, 	bit, 	bitten + /bait, bit, bitn/ 
+sangrar	:	bleed, 	bled, 	bled + /blid, bled, bled/ 
+soplar	:	blow, 	blew, 	blown + /blou, blu, bloun/ 
+romper	:	break, 	broke, 	broken + /breik, brouk, broukn/ 
+traer	:	bring, 	brought, 	brought + /bring, brot, brot/ 
+construir	:	build, 	built, 	built + /bild, bilt, bilt/ 
+comprar	:	buy, 	bought, 	bought + /bai, bot, bot/ 
+atrapar	:	catch, 	caught, 	caught + /katch, kot, kot/ 
+elegir	:	choose, 	chose, 	chosen + /chus, chous, chousn/ 
+venir	:	come, 	came, 	come + /kam, keim, kam/ 
+costar	:	cost, 	cost, 	cost + /kost, kost, kost/ 
+arrastrarse	:	creep, 	crept, 	crept + /krip, krept, krept/ 
+cortar	:	cut, 	cut, 	cut + /kat, kat, kat/ 
+tratar	:	deal, 	dealt, 	dealt + /dil, delt, delt/ 
+hacer	:	do, 	did, 	done + /du, did, don/ 
+dibujar	:	draw, 	drew, 	drawn + /dro, dru, dron/ 
+soñar	:	dream, 	dreamt, 	dreamt + /driim, dremt, dremt/ 
+beber	:	drink, 	drank, 	drunk + /drink, drank, draank/ 
+conducir	:	drive, 	drove, 	driven + /draiv, drouv, drivn/ 
+comer	:	eat, 	ate, 	eaten + /iit, eit, iitn/ 
+caer	:	fall, 	fell, 	fallen + /fol, fel, folen/ 
+alimentar	:	feed, 	fed, 	fed + /fiid, fed, fed/ 
+sentir	:	feel, 	felt, 	felt + /fiil, felt, felt/ 
+pelear	:	fight, 	fought, 	fought + /fait, fot, fot/ 
+encontrar	:	find, 	found, 	found + /faind, faund, faund/ 
+huir	:	flee, 	fled, 	fled + /flii, fled, fled/ 
+volar	:	fly, 	flew, 	flown + /flai, flu, floun/ 
+olvidar	:	forget, 	forgot, 	forgotten + /forget, forgot, forgotn/ 
+perdonar	:	forgive, 	forgave, 	forgiven + /forgiv, forgeiv, forgivn/ 
+abandonar	:	forsake, 	forsook, 	forsaken  + /forseik, forsuk, forseikn/ 
+congelar	:	freeze, 	froze, 	frozen + /friisz, frousz, frouszn/ 
+tener, obtener	:	get, 	got, 	got + /get, got, gotten+ / 
+dar	:	give, 	gave, 	given + /giv, geiv, givn/ 
+ir	:	go, 	went , 	gone + /gou, wuent, gon/ 
+moler	:	grind, 	ground, 	ground + /graind, graund, graund/ 
+crecer	:	grow, 	grew, 	grown + /grou, gru, groun/ 
+colgar	:	hang, 	hung, 	hung + /hang, haang, haang/ 
+tener	:	have, 	had, 	had + /hav, had, had/ 
+oír	:	hear, 	heard, 	heard + /hir, herd, herd/ 
+esconderse	:	hide, 	hid, 	hidden + /haid, hid, hidn/ 
+golpear	:	hit, 	hit, 	hit + /hit, hit, hit/ 
+tener, mantener	:	hold, 	held, 	held + /hold, held, held/ 
+herir, doler	:	hurt, 	hurt, 	hurt + /hert, hert, hert/ 
+guardar	:	keep, 	kept, 	kept + /kip, kept, kept/ 
+arrodillarse	:	kneel, 	knelt, 	knelt + /nil, nelt, nelt/ 
+saber	:	know, 	knew, 	known + /nou, niu, noun/ 
+encabezar	:	lead, 	led, 	led + /liid, led, led/ 
+aprender	:	learn, 	learnt, 	learnt + /lern, lernt, lernt/ 
+dejar	:	leave, 	left, 	left + /liv, left, left/ 
+prestar	:	lend, 	lent, 	lent + /lend, lent, lent/ 
+dejar	:	let, 	let, 	let + /let, let, let/ 
+yacer	:	lie, 	lay, 	lain + /lai, lei, lein/ 
+perder	:	lose, 	lost, 	lost + /lus, lost, lost/ 
+hacer	:	make, 	made, 	made + /meik, meid, meid/ 
+significar	:	mean, 	meant, 	meant + /min, ment, ment/ 
+conocer, encontrar	:	meet, 	met, 	met + /mit, met, met/ 
+pagar	:	pay, 	paid, 	paid + /pei, peid, peid/ 
+poner	:	put, 	put, 	put + /put, put, put/ 
+abandonar	:	quit, 	quit, 	quit + /kuit, kuit, kuit/ 
+leer	:	read, 	read, 	read + /rid, red, red/ 
+montar, ir	:	ride, 	rode, 	ridden + /raid, roud, ridn/ 
+llamar por teléfono	:	ring, 	rang, 	rung + /ring, rang, rang/ 
+elevar	:	rise, 	rose, 	risen + /rais, rous, risn/ 
+correr	:	run, 	ran, 	run + /raan, ran, raan/ 
+decir	:	say, 	said, 	said + /sei, sed, sed/ 
+ver	:	see, 	saw, 	seen + /si, so, sin/ 
+vender	:	sell, 	sold, 	sold + /sel, sold, sold/ 
+enviar	:	send, 	sent, 	sent + /send, sent, sent/ 
+fijar	:	set, 	set, 	set + /set, set, set/ 
+coser	:	sew, 	sewed, 	sewn  + /sou, soud, soun/ 
+sacudir	:	shake, 	shook, 	shaken + /sheik, shuk, sheikn/ 
+brillar	:	shine, 	shone, 	shone + /shain, shoun, shoun/ 
+disparar	:	shoot, 	shot, 	shot + /shut, shot, shot/ 
+mostrar	:	show, 	showed, 	shown + /shou, shoud, shoun/ 
+encoger	:	shrink, 	shrank, 	shrunk + /shrink, shrank, shraank/ 
+cerrar	:	shut, 	shut, 	shut + /shaat, shaat, shaat/ 
+cantar	:	sing, 	sang, 	sung + /sing, sang, saang/ 
+hundir	:	sink, 	sank, 	sunk + /sink, sank, saank/ 
+sentarse	:	sit, 	sat, 	sat + /sit, sat, sat/ 
+dormir	:	sleep, 	slept, 	slept + /sliip, slept, slept/ 
+deslizar	:	slide, 	slid, 	slid + /sslaid, sslid, sslid/ 
+sembrar	:	sow, 	sowed, 	sown + /sou, soud, soun/ 
+hablar	:	speak, 	spoke, 	spoken + /sspik, sspouk, sspokn/ 
+deletrear	:	spel, l	spelt, 	spelt + /sspel, sspelt, sspelt/ 
+gastar	:	spend, 	spent, 	spent + /sspend, sspent, sspent/ 
+derramar	:	spill, 	spilt, 	spilt + /sspil, sspilt, ssplt/ 
+dividir	:	split, 	split, 	split + /sspli, sspli, sspli/ 
+estropear	:	spoil, 	spoilt, 	spoilt + /sspoil, sspoilt, sspoilt/ 
+extenderse	:	spread, 	spread, 	spread + /sspred, sspred, sspred/ 
+estar de pie	:	stand, 	stood, 	stood + /sstand, sstud, sstud/ 
+robar	:	steal, 	stole, 	stolen + /sstil, sstoul, stouln/ 
+picar	:	sting, 	stung, 	stung + /ssting, sstaang, sstaang/ 
+apestar	:	stink, 	stank , 	stunk + /sstink, sstank, sstaank/ 
+golpear	:	strike, 	struck , 	struck + /straik, straak, straak/ 
+jurar	:	swear, 	swore, 	sworn + /suer, suor, suorn/ 
+barrer	:	sweep, 	swept, 	swept + /suip, suept, suept/ 
+nadar	:	swim, 	swam, 	swum + /suim, suam, suaan/ 
+tomar	:	take, 	took, 	taken + /teik, tuk, teikn/ 
+enseñar	:	teach, 	taught, 	taught + /tiich, tot, tot/ 
+romper	:	tear, 	tore, 	torn + /tiir, tor, torn/ 
+decir	:	tell, 	told, 	told + /tel, told, told/ 
+pensar	:	think, 	thought, 	thought + /zink, zot, zot/ 
+lanzar	:	throw, 	threw, 	thrown + /zrou, zriu, zroun/ 
+pisar	:	tread, 	trode, 	trodden + /tred, troud, trodn/ 
+despertarse	:	wake, 	woke, 	woken + /güeik, wuok, wuokn/ 
+llevar puesto	:	wear, 	wore, 	worn + /güer, wuor, wuorn/ 
+tejer	:	weave, 	wove, 	woven + /güiv, wuov, wouvn/ 
+llorar	:	weep, 	wept, 	wept + /wuip, wuept, wuept/ 
+ganar	:	win, 	won, 	won + /wuin, wuon, wuon/ 
+retorcer	:	wring, 	wrung, 	wrung + /ring, raang, raang/ 
+escribir	:	write, 	wrote, 	written + /rait, rout, ritn/ 
