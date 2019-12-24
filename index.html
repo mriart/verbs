@@ -97,7 +97,8 @@
          <section style="height: 160px;">
             <p>{{myQuestion}}</p>
             
-            <p ng-show="isVisible">{{myAnswer}}</p>
+            <p ng-show="isVisible">{{myAnswer.slice(0, myAnswer.indexOf('+'))}}</p>
+            <p ng-show="isVisible">{{myAnswer.slice(myAnswer.indexOf('+') + 1)}}</p>
          </section>
          <section>
             <button id="butShow" style="background-color:#4CAF50" ng-click="showHide()">Show / Hide</button>
